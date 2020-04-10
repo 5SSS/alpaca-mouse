@@ -5,7 +5,7 @@ const http = require('http');
 const fs = require('fs');
 const zlib = require('zlib');
 const cpuNums = require('os').cpus().length;
-const PORT = 3001;
+const PORT = process.env.PORT || 5000;
 const ROOT = '/pages';
 
 const parseItem = (name, parentPath) => {
