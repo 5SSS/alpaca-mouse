@@ -1,0 +1,23 @@
+{
+  "name": "alpaca-mouse",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5SSS/alpaca-mouse.git"
+  },
+  "author": "alpaca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5SSS/alpaca-mouse/issues"
+  },
+  "homepage": "https://github.com/5SSS/alpaca-mouse#readme"
+}
